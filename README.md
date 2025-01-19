@@ -3,8 +3,6 @@
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/T0Kl8w",CANAL 9📺
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
-#EXTINF:-1 tvg-logo="https://acortar.link/EcypoS",CANAL 12📺
-https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/fWGQK9",CANAL 17📺
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/chunklist_w1870465371.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/962lNx",CANAL 19📺
